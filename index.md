@@ -44,7 +44,7 @@ title: Student Blog
         <h1>Welcome to Blackjack Simulator</h1>
         <p></p>
     </div>
-    <a href="https://aidenk1.github.io/geocpt/login" class="button">Login</a>
+    <a href="https://aidenk1.github.io/blackjack/login" class="button">Login</a>
     <div>
-    <a href="https://aidenk1.github.io/geocpt/signup" class="button">Signup</a>
+    <a href="https://aidenk1.github.io/blackjack/signup" class="button">Signup</a>
 
